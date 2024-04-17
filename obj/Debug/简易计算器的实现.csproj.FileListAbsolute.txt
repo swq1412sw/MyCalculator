@@ -1,0 +1,10 @@
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\bin\Debug\简易计算器的实现.exe.config
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\bin\Debug\简易计算器的实现.exe
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\bin\Debug\简易计算器的实现.pdb
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\obj\Debug\简易计算器的实现.csproj.AssemblyReference.cache
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\obj\Debug\简易计算器的实现.Form1.resources
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\obj\Debug\简易计算器的实现.Properties.Resources.resources
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\obj\Debug\简易计算器的实现.csproj.GenerateResource.cache
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\obj\Debug\简易计算器的实现.csproj.CoreCompileInputs.cache
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\obj\Debug\简易计算器的实现.exe
+E:\onedrive note\OneDrive\note\study\StudyCode\C#\winform\DemoForStudy\简易计算器的实现\obj\Debug\简易计算器的实现.pdb

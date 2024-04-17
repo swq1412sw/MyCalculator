@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CalculatorApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|CalculatorApp.csproj|e:\\onedrive note\\onedrive\\note\\study\\studycode\\c#\\winform\\demoforstudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|CalculatorApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|CalculatorApp.csproj|e:\\onedrive note\\onedrive\\note\\study\\studycode\\c#\\winform\\demoforstudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|CalculatorApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|CalculatorApp.csproj|e:\\onedrive note\\onedrive\\note\\study\\studycode\\c#\\winform\\demoforstudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|CalculatorApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|CalculatorApp.csproj|e:\\onedrive note\\onedrive\\note\\study\\studycode\\c#\\winform\\demoforstudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|CalculatorApp.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0.csproj|E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0.csproj|E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0.csproj|E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F3B5E1-74A3-44EF-9635-15DA88585362}|CalculatorApp.csproj|e:\\onedrive note\\onedrive\\note\\study\\studycode\\c#\\winform\\demoforstudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorApp",
+              "DocumentMoniker": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\CalculatorApp.csproj",
+              "RelativeDocumentMoniker": "CalculatorApp.csproj",
+              "ToolTip": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\CalculatorApp.csproj",
+              "RelativeToolTip": "CalculatorApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T03:11:08.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-17T03:10:17.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:07:00.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:07:01.297Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:49:02.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwFgAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:43:34.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:09:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\onedrive note\\OneDrive\\note\\study\\StudyCode\\C#\\winform\\DemoForStudy\\\u7B80\u6613\u8BA1\u7B97\u5668\u7684\u5B9E\u73B0\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwDUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:05:55.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
