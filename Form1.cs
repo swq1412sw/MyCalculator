@@ -143,9 +143,8 @@ namespace MyCalculator
             }
         }
 
-        double ApplyOperation2(char operation, double b, double a) 
+        double GetResult(double num) 
         {
-            double num = ApplyOperation(operation,  b,  a);
             double.TryParse(num.ToString("F7"), out double result);
             return result;
         }
@@ -224,7 +223,7 @@ namespace MyCalculator
                 {
                     while (operators.Count > 0 && operators.Peek() != '(')
                     {
-                        numbers.Push(ApplyOperation2(operators.Pop(), numbers.Pop(), numbers.Pop()));
+                        numbers.Push(ApplyOperation(operators.Pop(), numbers.Pop(), numbers.Pop()));
                     }
                     operators.Pop();
                     numFlag = false;
@@ -233,7 +232,7 @@ namespace MyCalculator
                 {
                     while (operators.Count > 0 && Precedence(token) <= Precedence(operators.Peek()))
                     {
-                        numbers.Push(ApplyOperation2(operators.Pop(), numbers.Pop(), numbers.Pop()));
+                        numbers.Push(ApplyOperation(operators.Pop(), numbers.Pop(), numbers.Pop()));
                     }
                     operators.Push(token);
                     numFlag = false;
@@ -246,9 +245,9 @@ namespace MyCalculator
             }
             while (operators.Count > 0)
             {
-                numbers.Push(ApplyOperation2(operators.Pop(), numbers.Pop(), numbers.Pop()));
+                numbers.Push(ApplyOperation(operators.Pop(), numbers.Pop(), numbers.Pop()));
             }
-            return numbers.Peek();
+            return GetResult(numbers.Peek());
         }
     }
 }

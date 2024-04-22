@@ -406,7 +406,7 @@
             this.Controls.Add(this.splitContainer1);
             this.MinimumSize = new System.Drawing.Size(760, 568);
             this.Name = "Form1";
-            this.Text = "简易计算器-by小散";
+            this.Text = "简易计算器";
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel1.PerformLayout();
             this.splitContainer1.Panel2.ResumeLayout(false);
