@@ -106,12 +106,14 @@ namespace MyCalculator
                     try
                     {
                         var a = GetSum();
+                        
                         numbers.Clear();
                         operators.Clear();
+                        if (double.IsNaN(a)) throw new ArgumentException("非法运算，如除数为0或是负数开平方根");
                         txtSb.Clear();
                         txtSb.Append(a);
                     }
-                    catch{ MessageBox.Show("表达式错误"); }
+                    catch(Exception ee ){ MessageBox.Show(ee.Message); }
                 }
             }
             textBox1.Text = txtSb.ToString();
@@ -137,7 +139,7 @@ namespace MyCalculator
                 case '+': return a + b;
                 case '-': return a - b;
                 case '*': return a * b;
-                case '/': return a / b;
+                case '/': { if (b == 0) { return double.NaN; } return a / b; }
                 case '^': return Math.Pow(a, b); 
                 default: throw new ArgumentException("Invalid operation");
             }
